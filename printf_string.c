@@ -27,8 +27,4 @@ int printf_string(va_list val)
 		return (len);
 	}
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
 
